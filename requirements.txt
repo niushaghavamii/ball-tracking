@@ -1,0 +1,6 @@
+numpy==1.23.5
+opencv-python == 4.9.0.80
+cvzone == 1.6.1
+protobuf == 3.20.0
+imutils == 0.5.4
+mediapipe  == 0.10.9
